@@ -4,9 +4,9 @@ A basic web3 command line interface for interacting with the ethereum testrpc
 ## getting started
 * install dependencies
   * make sure testrpc is installed
-  * run npm install to install project dependencies 
-* run testrpc with 'testrpc'
-* run the CLI with 'node cli.js"
+  * run `npm install` to install project dependencies 
+* run testrpc with `testrpc`
+* run the CLI with `node cli.js`
 
 ## application flow
 * User can check the balances of all the wallets on the testrpc network.
