@@ -3,8 +3,8 @@ A basic web3 command line interface for interacting with the ethereum testrpc
 
 ## getting started
 * install dependencies
- * make sure testrpc is installed
- * run npm install to install project dependencies 
+  * make sure testrpc is installed
+  * run npm install to install project dependencies 
 * run testrpc with 'testrpc'
 * run the CLI with 'node cli.js"
 
